@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Host: andershellstrom.name
 Sitemap: https://andershellstrom.name/sitemap.xml
